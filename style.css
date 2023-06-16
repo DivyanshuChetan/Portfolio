@@ -435,15 +435,15 @@ nav ul li:hover a {
 }
 
 .skillBox .right .progress.html .range::before {
-    width: 90%;
+    width: 80%;
 }
 
 .skillBox .right .progress.css .range::before {
-    width: 70%;
+    width: 60%;
 }
 
 .skillBox .right .progress.js .range::before {
-    width: 60%;
+    width: 70%;
 }
 
 .skillBox .right .progress.python .range::before {
